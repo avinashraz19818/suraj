@@ -1,0 +1,14 @@
+2026/11/06-08:54:48.079 3e10 Reusing MANIFEST /root/surajfeed/playwright_profile_6_8015937475/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/06-08:54:48.079 3e10 Recovering log #9
+2026/11/06-08:54:48.079 3e10 Reusing old log /root/surajfeed/playwright_profile_6_8015937475/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/000009.log 
+2026/11/06-08:54:48.079 3e10 Delete type=2 #8
+2026/11/06-08:54:53.861 3e10 Level-0 table #14: started
+2026/11/06-08:54:53.864 3e10 Level-0 table #14: 144081 bytes OK
+2026/11/06-08:54:53.866 3e10 Delete type=0 #9
+2026/11/06-08:54:53.866 3e16 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 647 : 1
+2026/11/06-08:54:53.866 3e16 Compacting 1@0 + 1@1 files
+2026/11/06-08:54:53.868 3e16 Generated table #15@0: 71 keys, 31732 bytes
+2026/11/06-08:54:53.868 3e16 Compacted 1@0 + 1@1 files => 31732 bytes
+2026/11/06-08:54:53.869 3e16 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/06-08:54:53.870 3e16 Delete type=2 #14
+2026/11/06-08:54:53.870 3e10 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 647 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

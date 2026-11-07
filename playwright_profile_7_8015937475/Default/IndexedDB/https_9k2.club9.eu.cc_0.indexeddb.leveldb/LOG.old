@@ -1,0 +1,17 @@
+2026/11/06-08:48:02.383 37ac Reusing MANIFEST /root/surajfeed/playwright_profile_7_8015937475/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/06-08:48:02.388 37ac Recovering log #4
+2026/11/06-08:48:02.388 37ac Reusing old log /root/surajfeed/playwright_profile_7_8015937475/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/000004.log 
+2026/11/06-08:48:07.609 37b7 Level-0 table #8: started
+2026/11/06-08:48:07.648 37b7 Level-0 table #8: 146650 bytes OK
+2026/11/06-08:48:07.654 37b7 Delete type=0 #4
+2026/11/06-08:48:07.655 37b7 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/11/06-08:48:08.075 37ac Level-0 table #10: started
+2026/11/06-08:48:08.077 37ac Level-0 table #10: 2067 bytes OK
+2026/11/06-08:48:08.078 37ac Delete type=0 #7
+2026/11/06-08:48:08.079 37ac Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 599 : 1
+2026/11/06-08:48:08.079 37ac Compacting 1@0 + 1@1 files
+2026/11/06-08:48:08.083 37ac Generated table #11@0: 62 keys, 31582 bytes
+2026/11/06-08:48:08.083 37ac Compacted 1@0 + 1@1 files => 31582 bytes
+2026/11/06-08:48:08.085 37ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/06-08:48:08.085 37ac Delete type=2 #10
+2026/11/06-08:48:08.086 37ac Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 599 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

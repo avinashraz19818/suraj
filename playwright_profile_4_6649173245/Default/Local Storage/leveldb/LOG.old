@@ -1,0 +1,12 @@
+2026/11/06-19:05:55.695 10b53 Reusing MANIFEST /root/surajfeed/playwright_profile_4_6649173245/Default/Local Storage/leveldb/MANIFEST-000001
+2026/11/06-19:05:55.696 10b53 Recovering log #4
+2026/11/06-19:05:55.697 10b53 Reusing old log /root/surajfeed/playwright_profile_4_6649173245/Default/Local Storage/leveldb/000004.log 
+2026/11/06-20:45:56.243 10b53 Level-0 table #8: started
+2026/11/06-20:45:56.247 10b53 Level-0 table #8: 9336 bytes OK
+2026/11/06-20:45:56.251 10b53 Delete type=0 #4
+2026/11/07-01:31:56.238 10b57 Level-0 table #10: started
+2026/11/07-01:31:56.242 10b57 Level-0 table #10: 8324 bytes OK
+2026/11/07-01:31:56.245 10b57 Delete type=0 #7
+2026/11/07-06:16:56.281 10b53 Level-0 table #12: started
+2026/11/07-06:16:56.292 10b53 Level-0 table #12: 8322 bytes OK
+2026/11/07-06:16:56.303 10b53 Delete type=0 #9

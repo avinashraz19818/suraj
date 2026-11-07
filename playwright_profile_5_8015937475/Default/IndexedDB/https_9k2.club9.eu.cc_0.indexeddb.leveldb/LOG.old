@@ -1,0 +1,25 @@
+2026/11/06-08:47:52.763 363c Reusing MANIFEST /root/surajfeed/playwright_profile_5_8015937475/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/06-08:47:52.763 363c Recovering log #8
+2026/11/06-08:47:52.763 363c Reusing old log /root/surajfeed/playwright_profile_5_8015937475/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/000008.log 
+2026/11/06-08:47:52.763 363c Delete type=2 #7
+2026/11/06-08:47:55.193 363e Level-0 table #13: started
+2026/11/06-08:47:55.197 363e Level-0 table #13: 146359 bytes OK
+2026/11/06-08:47:55.199 363e Delete type=0 #8
+2026/11/06-08:47:55.200 3634 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 567 : 1
+2026/11/06-08:47:55.200 3634 Compacting 1@0 + 1@1 files
+2026/11/06-08:47:55.202 3634 Generated table #14@0: 129 keys, 32736 bytes
+2026/11/06-08:47:55.202 3634 Compacted 1@0 + 1@1 files => 32736 bytes
+2026/11/06-08:47:55.204 3634 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/06-08:47:55.204 3634 Delete type=2 #13
+2026/11/06-08:47:55.205 3634 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 567 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/11/06-08:47:55.516 363d Level-0 table #16: started
+2026/11/06-08:47:55.517 363d Level-0 table #16: 2066 bytes OK
+2026/11/06-08:47:55.518 363d Delete type=2 #10
+2026/11/06-08:47:55.518 363d Delete type=0 #12
+2026/11/06-08:47:55.518 3634 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 617 : 1
+2026/11/06-08:47:55.518 3634 Compacting 1@0 + 1@1 files
+2026/11/06-08:47:55.520 3634 Generated table #17@0: 141 keys, 32947 bytes
+2026/11/06-08:47:55.520 3634 Compacted 1@0 + 1@1 files => 32947 bytes
+2026/11/06-08:47:55.521 3634 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/06-08:47:55.522 3634 Delete type=2 #16
+2026/11/06-08:47:55.522 3634 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 617 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

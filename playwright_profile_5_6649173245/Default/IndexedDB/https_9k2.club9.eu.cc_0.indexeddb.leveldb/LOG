@@ -1,0 +1,36 @@
+2026/11/07-12:16:09.808 18c8c Reusing MANIFEST /root/surajfeed/playwright_profile_5_6649173245/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/07-12:16:09.808 18c8c Recovering log #193
+2026/11/07-12:16:09.844 18c8c Reusing old log /root/surajfeed/playwright_profile_5_6649173245/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/000193.log 
+2026/11/07-12:16:09.846 18c8c Delete type=2 #192
+2026/11/07-12:16:17.900 18c8a Level-0 table #198: started
+2026/11/07-12:16:17.946 18c8a Level-0 table #198: 119160 bytes OK
+2026/11/07-12:16:17.950 18c8a Delete type=0 #193
+2026/11/07-12:16:17.950 18c8a Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at '\x00A\x00\x00\x05' @ 4077 : 1
+2026/11/07-12:16:17.950 18c8a Compacting 1@0 + 1@1 files
+2026/11/07-12:16:17.952 18c8a Generated table #199@0: 232 keys, 33675 bytes
+2026/11/07-12:16:17.952 18c8a Compacted 1@0 + 1@1 files => 33675 bytes
+2026/11/07-12:16:17.954 18c8a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/07-12:16:17.955 18c8a Delete type=2 #198
+2026/11/07-12:16:17.956 18c8c Manual compaction at level-0 from '\x00A\x00\x00\x05' @ 4077 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/11/07-12:16:18.275 18c8b Level-0 table #201: started
+2026/11/07-12:16:18.281 18c8b Level-0 table #201: 2084 bytes OK
+2026/11/07-12:16:18.288 18c8b Delete type=2 #195
+2026/11/07-12:16:18.288 18c8b Delete type=0 #197
+2026/11/07-12:16:18.288 18c82 Manual compaction at level-0 from '\x00B\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at '\x00B\x00\x00\x05' @ 4156 : 1
+2026/11/07-12:16:18.288 18c82 Compacting 1@0 + 1@1 files
+2026/11/07-12:16:18.292 18c82 Generated table #202@0: 232 keys, 33674 bytes
+2026/11/07-12:16:18.292 18c82 Compacted 1@0 + 1@1 files => 33674 bytes
+2026/11/07-12:16:18.294 18c82 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/07-12:16:18.294 18c82 Delete type=2 #201
+2026/11/07-12:16:18.295 18c82 Manual compaction at level-0 from '\x00B\x00\x00\x05' @ 4156 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/11/07-12:16:31.655 18c82 Level-0 table #204: started
+2026/11/07-12:16:31.656 18c82 Level-0 table #204: 1089 bytes OK
+2026/11/07-12:16:31.657 18c82 Delete type=0 #200
+2026/11/07-12:16:31.657 18c82 Delete type=2 #199
+2026/11/07-12:16:31.658 18c82 Manual compaction at level-0 from '\x00C\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00D\x00\x00\x00' @ 0 : 0; will stop at '\x00C\x00\x00\x05' @ 4187 : 1
+2026/11/07-12:16:31.658 18c82 Compacting 1@0 + 1@1 files
+2026/11/07-12:16:31.660 18c82 Generated table #205@0: 232 keys, 33673 bytes
+2026/11/07-12:16:31.660 18c82 Compacted 1@0 + 1@1 files => 33673 bytes
+2026/11/07-12:16:31.663 18c82 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/07-12:16:31.663 18c82 Delete type=2 #204
+2026/11/07-12:16:31.664 18c82 Manual compaction at level-0 from '\x00C\x00\x00\x05' @ 4187 : 1 .. '\x00D\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,161 @@
+✅ Buttons menu loaded (bot me /start bhejo)
+✅ Bot-setup module loaded (bot me /help bhejo)
+Initializing clients...
+✅ Started Global Client 1: Bholu Jaiswal
+✅ Started Global Client 2: PARVEEN SIGMA MALE
+✅ Started Global Client 3: Vipin
+✅ Started Global Client 4: Sunny Patel
+✅ Started Global Client 5: Vishal Sharma
+✅ Started Global Client 6: MDFarman
+⚠️ Could not start Owner Main ID for 8015937475 (Zayro_1_SESSION): Telegram says: [401 AUTH_KEY_UNREGISTERED] - The key is not registered in the system. Delete your session file and login again (caused by "updates.GetState")
+✅ Started Owner Main ID for 6649173245: DHANIWIN MANAGER
+✅ Owner imported 6 clients into contacts
+✅ Mutual peer warmup ready: Client 1 <-> Owner
+✅ Mutual peer warmup ready: Client 2 <-> Owner
+✅ Mutual peer warmup ready: Client 3 <-> Owner
+✅ Mutual peer warmup ready: Client 4 <-> Owner
+✅ Mutual peer warmup ready: Client 5 <-> Owner
+✅ Mutual peer warmup ready: Client 6 <-> Owner
+✅ Premium emoji active: TICK=5039844895779455925, HUNDRED=5042297717242463211, CASH=6134313574819959714
+Starting Orchestrator Bot...
+✅ Orchestrator Bot started: @KCLUBPROOF_bot (proof755bot)
+⚡ Synthetic Mode Active: Background browsers disabled (CPU: 0%, RAM: ~80MB)
+🤖 Bot is active! Commands: /help, /login, /bet, /hbet, /refresh, /browsers, /dp, /emojiid
+🌐 6 browsers khol raha hoon (owner 6649173245)...
+[Client 1] 🌐 Using system Chromium: /usr/bin/google-chrome-stable
+[Client 1] 🧭 [1/6] Home page khol raha hoon...
+[Client 2] 🌐 Using system Chromium: /usr/bin/google-chrome-stable
+[Client 2] 🧭 [1/6] Home page khol raha hoon...
+[Client 3] 🌐 Using system Chromium: /usr/bin/google-chrome-stable
+[Client 3] 🧭 [1/6] Home page khol raha hoon...
+[Client 1] ✅ [1/6] Home page ready: https://9k2.club9.eu.cc/#/
+[Client 1] 🧭 [2/6] Login check kar raha hoon...
+[Client 1] ✅ [2/6] Already logged in
+[Client 1] 🧭 [3/6] Popup / announcement band kar raha hoon..
+[Client 4] 🌐 Using system Chromium: /usr/bin/google-chrome-stable
+[Client 1] ✅ [3/6] Popup clear + lottery token set
+[Client 1] 🧭 [4/6] Lottery tab aur WINGO 1 MIN card click karke room khol raha hoon...
+[Client 4] 🧭 [1/6] Home page khol raha hoon...
+[Client 5] 🌐 Using system Chromium: /usr/bin/google-chrome-stable
+[Client 2] ✅ [1/6] Home page ready: https://9k2.club9.eu.cc/#/
+[Client 2] 🧭 [2/6] Login check kar raha hoon...
+[Client 2] ✅ [2/6] Already logged in
+[Client 2] 🧭 [3/6] Popup / announcement band kar raha hoon..
+[Client 2] ✅ [3/6] Popup clear + lottery token set
+[Client 2] 🧭 [4/6] Lottery tab aur WINGO 1 MIN card click karke room khol raha hoon...
+[Client 5] 🧭 [1/6] Home page khol raha hoon...
+[Client 1] 🧭 [5/6] 1Min tab select kar raha hoon...
+[Client 6] 🌐 Using system Chromium: /usr/bin/google-chrome-stable
+[Client 1] ✅ [5/6] 1Min tab select ho gaya
+[Client 1] 🧭 [6/6] Board check (period dikh raha hai?)...
+[Client 1] ✅ [6/6] WinGo 1Min board ready — period 20261107100010676
+[Client 1] 🎯 Browser ready on WinGo 1Min (period 20261107100010676)
+✅ Browser 1 ready — period 20261107100010676
+[Client 6] 🧭 [1/6] Home page khol raha hoon...
+[Client 3] ✅ [1/6] Home page ready: https://9k2.club9.eu.cc/#/
+[Client 3] 🧭 [2/6] Login check kar raha hoon...
+[Client 3] ✅ [2/6] Already logged in
+[Client 3] 🧭 [3/6] Popup / announcement band kar raha hoon..
+[Client 3] ✅ [3/6] Popup clear + lottery token set
+[Client 3] 🧭 [4/6] Lottery tab aur WINGO 1 MIN card click karke room khol raha hoon...
+[Client 4] ✅ [1/6] Home page ready: https://9k2.club9.eu.cc/#/
+[Client 4] 🧭 [2/6] Login check kar raha hoon...
+[Client 4] ✅ [2/6] Already logged in
+[Client 4] 🧭 [3/6] Popup / announcement band kar raha hoon..
+[Client 4] ✅ [3/6] Popup clear + lottery token set
+[Client 4] 🧭 [4/6] Lottery tab aur WINGO 1 MIN card click karke room khol raha hoon...
+[Client 5] ✅ [1/6] Home page ready: https://9k2.club9.eu.cc/#/
+[Client 5] 🧭 [2/6] Login check kar raha hoon...
+[Client 5] ✅ [2/6] Already logged in
+[Client 5] 🧭 [3/6] Popup / announcement band kar raha hoon..
+[Client 5] ✅ [3/6] Popup clear + lottery token set
+[Client 5] 🧭 [4/6] Lottery tab aur WINGO 1 MIN card click karke room khol raha hoon...
+[Client 6] ✅ [1/6] Home page ready: https://9k2.club9.eu.cc/#/
+[Client 6] 🧭 [2/6] Login check kar raha hoon...
+[Client 6] ✅ [2/6] Already logged in
+[Client 6] 🧭 [3/6] Popup / announcement band kar raha hoon..
+[Client 6] ✅ [3/6] Popup clear + lottery token set
+[Client 6] 🧭 [4/6] Lottery tab aur WINGO 1 MIN card click karke room khol raha hoon...
+[Client 2] 🧭 [5/6] 1Min tab select kar raha hoon...
+[Client 2] ✅ [5/6] 1Min tab select ho gaya
+[Client 2] 🧭 [6/6] Board check (period dikh raha hai?)...
+[Client 2] ✅ [6/6] WinGo 1Min board ready — period 20261107100010676
+[Client 2] 🎯 Browser ready on WinGo 1Min (period 20261107100010676)
+✅ Browser 2 ready — period 20261107100010676
+[Client 3] 🧭 [5/6] 1Min tab select kar raha hoon...
+[Client 3] ✅ [5/6] 1Min tab select ho gaya
+[Client 3] 🧭 [6/6] Board check (period dikh raha hai?)...
+[Client 3] ✅ [6/6] WinGo 1Min board ready — period 20261107100010676
+[Client 3] 🎯 Browser ready on WinGo 1Min (period 20261107100010676)
+✅ Browser 3 ready — period 20261107100010676
+[Client 4] 🧭 [5/6] 1Min tab select kar raha hoon...
+[Client 4] ✅ [5/6] 1Min tab select ho gaya
+[Client 4] 🧭 [6/6] Board check (period dikh raha hai?)...
+[Client 4] ✅ [6/6] WinGo 1Min board ready — period 20261107100010676
+[Client 4] 🎯 Browser ready on WinGo 1Min (period 20261107100010676)
+✅ Browser 4 ready — period 20261107100010676
+[Client 5] 🧭 [5/6] 1Min tab select kar raha hoon...
+[Client 5] ✅ [5/6] 1Min tab select ho gaya
+[Client 5] 🧭 [6/6] Board check (period dikh raha hai?)...
+[Client 5] ✅ [6/6] WinGo 1Min board ready — period 20261107100010676
+[Client 5] 🎯 Browser ready on WinGo 1Min (period 20261107100010676)
+✅ Browser 5 ready — period 20261107100010676
+[Client 6] 🧭 [5/6] 1Min tab select kar raha hoon...
+[Client 6] ✅ [5/6] 1Min tab select ho gaya
+[Client 6] 🧭 [6/6] Board check (period dikh raha hai?)...
+[Client 6] ✅ [6/6] WinGo 1Min board ready — period 20261107100010676
+[Client 6] 🎯 Browser ready on WinGo 1Min (period 20261107100010676)
+✅ Browser 6 ready — period 20261107100010676
+🌐 6/6 browsers WinGo board pe ready
+✅ Owner imported 6 clients into contacts
+🎯 Bet message clients (all 6): [1, 2, 3, 4, 5, 6]
+🎉 Generated 6 winning popups in 3.1s (Period: 20261107100010676, WinNum: 0)
+📨 Client 3 (Vipin): 12/12 bet messages delivered
+📨 Client 1 (Bholu Jaiswal): 12/12 bet messages delivered
+📨 Client 4 (Sunny Patel): 12/12 bet messages delivered
+📨 Client 2 (PARVEEN SIGMA MALE): 12/12 bet messages delivered
+📨 Client 5 (Vishal Sharma): 12/12 bet messages delivered
+📨 Client 6 (MDFarman): 12/12 bet messages delivered
+💬 Client 1: conversations, Client 2: confuse_chat, Client 3: conversations, Client 4: conversations, Client 5: conversations, Client 6: confuse_chat
+Betting output:
+ {1: {'screenshot': '/root/surajfeed/auto_win_popup_1_6649173245.png', 'amount': 500, 'bonus': 980.0, 'formatted_bonus': '₹980.00', 'winning_number': 0, 'outcome': 'Small', 'balance': 70049853.82}, 2: {'screenshot': '/root/surajfeed/auto_win_popup_2_6649173245.png', 'amount': 3000, 'bonus': 5880.0, 'formatted_bonus': '₹5,880.00', 'winning_number': 0, 'outcome': 'Small', 'balance': 9647346.0}, 3: {'screenshot': '/root/surajfeed/auto_win_popup_3_6649173245.png', 'amount': 500, 'bonus': 980.0, 'formatted_bonus': '₹980.00', 'winning_number': 0, 'outcome': 'Small', 'balance': 12500400.0}, 4: {'screenshot': '/root/surajfeed/auto_win_popup_4_6649173245.png', 'amount': 3000, 'bonus': 5880.0, 'formatted_bonus': '₹5,880.00', 'winning_number': 0, 'outcome': 'Small', 'balance': 9048346.0}, 5: {'screenshot': '/root/surajfeed/auto_win_popup_5_6649173245.png', 'amount': 2500, 'bonus': 22500.0, 'formatted_bonus': '₹22,500.00', 'winning_number': 0, 'outcome': 'Small', 'balance': 15200100.0}, 6: {'screenshot': '/root/surajfeed/auto_win_popup_6_6649173245.png', 'amount': 2500, 'bonus': 4900.0, 'formatted_bonus': '₹4,900.00', 'winning_number': 0, 'outcome': 'Small', 'balance': 9647346.0}}
+📝 Feedback bheja: [1, 2, 4, 5] | sirf screenshot: [3, 6]
+✅ Owner imported 6 clients into contacts
+🎯 Bet message clients (all 6): [1, 2, 3, 4, 5, 6]
+🎉 Generated 6 winning popups in 6.32s (Period: 20261107100010680, WinNum: 1)
+📨 Client 2 (PARVEEN SIGMA MALE): 12/12 bet messages delivered
+📨 Client 1 (Bholu Jaiswal): 12/12 bet messages delivered
+📨 Client 4 (Sunny Patel): 12/12 bet messages delivered
+📨 Client 3 (Vipin): 12/12 bet messages delivered
+📨 Client 5 (Vishal Sharma): 12/12 bet messages delivered
+📨 Client 6 (MDFarman): 12/12 bet messages delivered
+💬 Client 1: confuse_chat, Client 2: conversations, Client 3: confuse_chat, Client 4: conversations, Client 5: conversations, Client 6: conversations
+Betting output:
+ {1: {'screenshot': '/root/surajfeed/auto_win_popup_1_6649173245.png', 'amount': 2500, 'bonus': 22500.0, 'formatted_bonus': '₹22,500.00', 'winning_number': 1, 'outcome': 'Small', 'balance': 70049853.82}, 2: {'screenshot': '/root/surajfeed/auto_win_popup_2_6649173245.png', 'amount': 500, 'bonus': 980.0, 'formatted_bonus': '₹980.00', 'winning_number': 1, 'outcome': 'Small', 'balance': 9647346.0}, 3: {'screenshot': '/root/surajfeed/auto_win_popup_3_6649173245.png', 'amount': 3000, 'bonus': 5880.0, 'formatted_bonus': '₹5,880.00', 'winning_number': 1, 'outcome': 'Small', 'balance': 12500400.0}, 4: {'screenshot': '/root/surajfeed/auto_win_popup_4_6649173245.png', 'amount': 1000, 'bonus': 1960.0, 'formatted_bonus': '₹1,960.00', 'winning_number': 1, 'outcome': 'Small', 'balance': 9048346.0}, 5: {'screenshot': '/root/surajfeed/auto_win_popup_5_6649173245.png', 'amount': 5000, 'bonus': 9800.0, 'formatted_bonus': '₹9,800.00', 'winning_number': 1, 'outcome': 'Small', 'balance': 15200100.0}, 6: {'screenshot': '/root/surajfeed/auto_win_popup_6_6649173245.png', 'amount': 2000, 'bonus': 3920.0, 'formatted_bonus': '₹3,920.00', 'winning_number': 1, 'outcome': 'Small', 'balance': 9647346.0}}
+📝 Feedback bheja: [1] | sirf screenshot: [2, 3, 4, 5, 6]
+✅ Owner imported 6 clients into contacts
+🎯 Bet message clients (all 6): [1, 2, 3, 4, 5, 6]
+🎉 Generated 6 winning popups in 3.61s (Period: 20261107100010700, WinNum: 2)
+📨 Client 1 (Bholu Jaiswal): 12/12 bet messages delivered
+📨 Client 2 (PARVEEN SIGMA MALE): 12/12 bet messages delivered
+📨 Client 4 (Sunny Patel): 12/12 bet messages delivered
+📨 Client 3 (Vipin): 12/12 bet messages delivered
+📨 Client 5 (Vishal Sharma): 12/12 bet messages delivered
+📨 Client 6 (MDFarman): 12/12 bet messages delivered
+💬 Client 1: confuse_chat, Client 2: confuse_chat, Client 3: confuse_chat, Client 4: conversations, Client 5: conversations, Client 6: confuse_chat
+Betting output:
+ {1: {'screenshot': '/root/surajfeed/auto_win_popup_1_6649173245.png', 'amount': 1500, 'bonus': 2940.0, 'formatted_bonus': '₹2,940.00', 'winning_number': 2, 'outcome': 'Small', 'balance': 70049853.82}, 2: {'screenshot': '/root/surajfeed/auto_win_popup_2_6649173245.png', 'amount': 1000, 'bonus': 1960.0, 'formatted_bonus': '₹1,960.00', 'winning_number': 2, 'outcome': 'Small', 'balance': 9647346.0}, 3: {'screenshot': '/root/surajfeed/auto_win_popup_3_6649173245.png', 'amount': 1500, 'bonus': 2940.0, 'formatted_bonus': '₹2,940.00', 'winning_number': 2, 'outcome': 'Small', 'balance': 12500400.0}, 4: {'screenshot': '/root/surajfeed/auto_win_popup_4_6649173245.png', 'amount': 2500, 'bonus': 22500.0, 'formatted_bonus': '₹22,500.00', 'winning_number': 2, 'outcome': 'Small', 'balance': 9048346.0}, 5: {'screenshot': '/root/surajfeed/auto_win_popup_5_6649173245.png', 'amount': 1000, 'bonus': 1960.0, 'formatted_bonus': '₹1,960.00', 'winning_number': 2, 'outcome': 'Small', 'balance': 15200100.0}, 6: {'screenshot': '/root/surajfeed/auto_win_popup_6_6649173245.png', 'amount': 1000, 'bonus': 9000.0, 'formatted_bonus': '₹9,000.00', 'winning_number': 2, 'outcome': 'Small', 'balance': 9647346.0}}
+📝 Feedback bheja: [3, 4, 5] | sirf screenshot: [1, 2, 6]
+✅ Owner imported 6 clients into contacts
+🎯 Bet message clients (all 6): [1, 2, 3, 4, 5, 6]
+🎉 Generated 6 winning popups in 3.95s (Period: 20261107100010809, WinNum: 8)
+📨 Client 2 (PARVEEN SIGMA MALE): 12/12 bet messages delivered
+📨 Client 1 (Bholu Jaiswal): 12/12 bet messages delivered
+📨 Client 3 (Vipin): 12/12 bet messages delivered
+📨 Client 4 (Sunny Patel): 12/12 bet messages delivered
+📨 Client 5 (Vishal Sharma): 12/12 bet messages delivered
+📨 Client 6 (MDFarman): 12/12 bet messages delivered
+💬 Client 1: confuse_chat, Client 2: conversations, Client 3: conversations, Client 4: conversations, Client 5: conversations, Client 6: conversations
+Betting output:
+ {1: {'screenshot': '/root/surajfeed/auto_win_popup_1_6649173245.png', 'amount': 500, 'bonus': 980.0, 'formatted_bonus': '₹980.00', 'winning_number': 8, 'outcome': 'Big', 'balance': 70049853.82}, 2: {'screenshot': '/root/surajfeed/auto_win_popup_2_6649173245.png', 'amount': 1000, 'bonus': 1960.0, 'formatted_bonus': '₹1,960.00', 'winning_number': 8, 'outcome': 'Big', 'balance': 9647346.0}, 3: {'screenshot': '/root/surajfeed/auto_win_popup_3_6649173245.png', 'amount': 3000, 'bonus': 5880.0, 'formatted_bonus': '₹5,880.00', 'winning_number': 8, 'outcome': 'Big', 'balance': 12500400.0}, 4: {'screenshot': '/root/surajfeed/auto_win_popup_4_6649173245.png', 'amount': 5000, 'bonus': 45000.0, 'formatted_bonus': '₹45,000.00', 'winning_number': 8, 'outcome': 'Big', 'balance': 9048346.0}, 5: {'screenshot': '/root/surajfeed/auto_win_popup_5_6649173245.png', 'amount': 1000, 'bonus': 1960.0, 'formatted_bonus': '₹1,960.00', 'winning_number': 8, 'outcome': 'Big', 'balance': 15200100.0}, 6: {'screenshot': '/root/surajfeed/auto_win_popup_6_6649173245.png', 'amount': 1000, 'bonus': 9000.0, 'formatted_bonus': '₹9,000.00', 'winning_number': 8, 'outcome': 'Big', 'balance': 9647346.0}}
+📝 Feedback bheja: [5, 6] | sirf screenshot: [1, 2, 3, 4]

@@ -1,0 +1,6 @@
+2026/11/06-08:54:39.685 3cf4 Reusing MANIFEST /root/surajfeed/playwright_profile_4_8015937475/Default/Local Storage/leveldb/MANIFEST-000001
+2026/11/06-08:54:39.686 3cf4 Recovering log #3
+2026/11/06-08:54:39.686 3cf4 Reusing old log /root/surajfeed/playwright_profile_4_8015937475/Default/Local Storage/leveldb/000003.log 
+2026/11/06-14:35:40.473 3cf8 Level-0 table #5: started
+2026/11/06-14:35:40.503 3cf8 Level-0 table #5: 7736 bytes OK
+2026/11/06-14:35:40.555 3cf8 Delete type=0 #3

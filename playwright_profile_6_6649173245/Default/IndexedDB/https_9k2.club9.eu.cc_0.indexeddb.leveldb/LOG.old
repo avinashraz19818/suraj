@@ -1,0 +1,9 @@
+2026/11/06-19:06:04.302 10c68 Reusing MANIFEST /root/surajfeed/playwright_profile_6_6649173245/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/06-19:06:04.303 10c68 Recovering log #89
+2026/11/06-19:06:04.307 10c68 Reusing old log /root/surajfeed/playwright_profile_6_6649173245/Default/IndexedDB/https_9k2.club9.eu.cc_0.indexeddb.leveldb/000089.log 
+2026/11/07-02:36:07.020 10c70 Compacting 1@1 + 1@2 files
+2026/11/07-02:36:07.077 10c70 Generated table #93@1: 96 keys, 32990 bytes
+2026/11/07-02:36:07.077 10c70 Compacted 1@1 + 1@2 files => 32990 bytes
+2026/11/07-02:36:07.087 10c70 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/11/07-02:36:07.087 10c70 Delete type=2 #21
+2026/11/07-02:36:07.087 10c70 Delete type=2 #91
